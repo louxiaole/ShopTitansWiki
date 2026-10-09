@@ -49,7 +49,7 @@
 
 ## 技术支持
 
-- **QQ 群**：等你加入（建设中）
+- **QQ 群**：416980382
 - **问题反馈**：提交 [Issue](https://github.com/louxiaole/ShopTitansWiki/issues)
 - **更新建议**：欢迎在 Issue 中提出
 
