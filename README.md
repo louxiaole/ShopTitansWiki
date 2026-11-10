@@ -23,7 +23,7 @@
 **方式一：直接下载**
 
 1. 前往 [Releases](https://github.com/louxiaole/ShopTitansWiki/releases) 页面
-2. 下载最新版本 `小乐商店百科-1.2.0.exe`
+2. 下载最新版本 `XiaoleShopEncyclopedia-1.2.0.exe`
 3. 双击运行，无需安装，绿色便携
 
 **方式二：工具内自动更新**
